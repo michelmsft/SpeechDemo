@@ -18,7 +18,7 @@ namespace TimeKeeperAI
             var speechConfig = SpeechConfig.FromSubscription(aiSvcKey, aiSvcRegion);
             speechConfig.SpeechSynthesisVoiceName = "en-GB-LibbyNeural"; // Change to your preferred neural voice
 
-            Console.WriteLine("🎤 Andrew and Ava are in a working on a AI Speech presentation. you want to Hi?! '");
+            Console.WriteLine("🎤 Andrew and Ava are in a work session on -Azure AI Speech- presentation. you want to Hi?! '");
 
             //Hi Andrew, Hi Ava, I see you guys are working hard in here...
 
