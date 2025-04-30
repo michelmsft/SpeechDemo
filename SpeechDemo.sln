@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechDemo", "SpeechDemo\SpeechDemo.csproj", "{F15297CD-ECD7-48B5-974B-FB073C121ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechTranslate", "SpeechTranslate\SpeechTranslate.csproj", "{FCE9B713-F114-430C-B10D-7F88F3F75920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15297CD-ECD7-48B5-974B-FB073C121ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15297CD-ECD7-48B5-974B-FB073C121ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15297CD-ECD7-48B5-974B-FB073C121ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15297CD-ECD7-48B5-974B-FB073C121ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE9B713-F114-430C-B10D-7F88F3F75920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE9B713-F114-430C-B10D-7F88F3F75920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE9B713-F114-430C-B10D-7F88F3F75920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE9B713-F114-430C-B10D-7F88F3F75920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257CA19F-30FF-4268-BB5D-696DF65BF69A}
+	EndGlobalSection
+EndGlobal
